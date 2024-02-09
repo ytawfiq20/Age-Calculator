@@ -1,0 +1,14 @@
+D:\my_source_code\C#\NumberOfDays\NumberOfDays\bin\Debug\net8.0\NumberOfDays.exe
+D:\my_source_code\C#\NumberOfDays\NumberOfDays\bin\Debug\net8.0\NumberOfDays.deps.json
+D:\my_source_code\C#\NumberOfDays\NumberOfDays\bin\Debug\net8.0\NumberOfDays.runtimeconfig.json
+D:\my_source_code\C#\NumberOfDays\NumberOfDays\bin\Debug\net8.0\NumberOfDays.dll
+D:\my_source_code\C#\NumberOfDays\NumberOfDays\bin\Debug\net8.0\NumberOfDays.pdb
+D:\my_source_code\C#\NumberOfDays\NumberOfDays\obj\Debug\net8.0\NumberOfDays.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_source_code\C#\NumberOfDays\NumberOfDays\obj\Debug\net8.0\NumberOfDays.AssemblyInfoInputs.cache
+D:\my_source_code\C#\NumberOfDays\NumberOfDays\obj\Debug\net8.0\NumberOfDays.AssemblyInfo.cs
+D:\my_source_code\C#\NumberOfDays\NumberOfDays\obj\Debug\net8.0\NumberOfDays.csproj.CoreCompileInputs.cache
+D:\my_source_code\C#\NumberOfDays\NumberOfDays\obj\Debug\net8.0\NumberOfDays.dll
+D:\my_source_code\C#\NumberOfDays\NumberOfDays\obj\Debug\net8.0\refint\NumberOfDays.dll
+D:\my_source_code\C#\NumberOfDays\NumberOfDays\obj\Debug\net8.0\NumberOfDays.pdb
+D:\my_source_code\C#\NumberOfDays\NumberOfDays\obj\Debug\net8.0\NumberOfDays.genruntimeconfig.cache
+D:\my_source_code\C#\NumberOfDays\NumberOfDays\obj\Debug\net8.0\ref\NumberOfDays.dll
